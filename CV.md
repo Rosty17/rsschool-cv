@@ -40,4 +40,4 @@ function multiply (a, b) {
 * Polish (A2)
 
 
-![Photo](~/RSschool-CV/rv.jpg)
+![Photo](https://github.com/Rosty17/rsschool-cv/blob/gh-pages/rv.jpg)
