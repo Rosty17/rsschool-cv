@@ -33,5 +33,11 @@ function multiply (a, b) {
 ```
 
 
+###Languages
+
+* English (C1)
+* French (A2, in progress)
+* Polish (A2)
+
 
 ![photo](~/RSschool-CV/rv.jpg)
