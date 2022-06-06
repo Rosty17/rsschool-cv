@@ -24,7 +24,7 @@ Besides the possibility to add some founds to my budget, I would like to try to 
 
 ###Code Example
 
-Codewars registration
+Codewars registration task
 ```
 function multiply (a, b) {
   const result = (a * b);
@@ -40,4 +40,4 @@ function multiply (a, b) {
 * Polish (A2)
 
 
-![photo](~/RSschool-CV/rv.jpg)
+![Photo](~/RSschool-CV "The Google logo")
